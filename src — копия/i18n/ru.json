@@ -1,0 +1,117 @@
+{
+  "header": {
+    "logoAlt": "Кофе",
+    "account": "Профиль",
+    "login": "Войти",
+    "logout": "Выйти"
+  },
+  "language": {
+    "ru": "RU",
+    "en": "EN"
+  },
+  "hero": {
+    "title": "Coffee Land",
+    "subtitle": "Свежий кофе каждый день",
+    "viewMenu": "Посмотреть меню",
+    "orderNow": "Заказать на самовывоз"
+  },
+  "menu": {
+    "coffee": "Кофе",
+    "iced": "Холодные напитки",
+    "lemonades": "Лимонады",
+    "milkshakes": "Молочные коктейли",
+    "syrups": "Сиропы",
+    "altMilk": "Альтернативное молоко",
+    "tea": "Чай",
+    "add": "Добавить",
+    "selectSize": "Выберите размер",
+    "discount": "Скидка 10%"
+  },
+  "cart": {
+    "orderPickup": "Заказать на самовывоз",
+    "total": "Итого",
+    "withDiscount": "Со скидкой",
+    "enterPhone": "Введите телефон",
+    "name": "Имя",
+    "phone": "Телефон",
+    "country": "Страна",
+    "placeOrder": "Оформить заказ",
+    "orderConfirmed": "Заказ принят!",
+    "pickupTime": "Время приёма",
+    "pickupTimePlaceholder": "например 14:30",
+    "comment": "Комментарий к заказу",
+    "commentPlaceholder": "Например: без сахара, меньше льда"
+  },
+  "order": {
+    "placeOrder": "Оформить заказ",
+    "confirm": "Подтвердить заказ",
+    "total": "Итого",
+    "finalTotal": "Итоговая сумма",
+    "success": "Заказ успешно оформлен",
+    "history": "История заказов",
+    "noOrders": "У вас нет заказов",
+    "status": {
+      "new": "Новый",
+      "pending": "Ожидание",
+      "confirmed": "Подтверждено",
+      "preparing": "Готовится",
+      "completed": "Выполнено"
+    }
+  },
+  "auth": {
+    "register": "Регистрация",
+    "login": "Вход",
+    "enterName": "Введите имя",
+    "enterPhone": "Введите телефон",
+    "haveAccount": "Уже есть аккаунт?",
+    "noAccount": "Нет аккаунта?"
+  },
+  "profile": {
+    "title": "Мой профиль",
+    "name": "Имя",
+    "phone": "Телефон",
+    "loyaltyCard": "Карта постоянного клиента",
+    "cardActive": "Карта активна",
+    "cardInactive": "Карта не активна",
+    "discount": "Скидка 10%",
+    "orders": "История заказов",
+    "noOrders": "У вас нет заказов",
+    "logout": "Выход"
+  },
+  "admin": {
+    "title": "Панель администратора",
+    "users": "Пользователи",
+    "orders": "Заказы",
+    "stats": "Статистика",
+    "totalOrders": "Всего заказов",
+    "ordersToday": "Заказов сегодня",
+    "totalRevenue": "Общая выручка",
+    "revenueToday": "Выручка сегодня",
+    "status": "Статус",
+    "markCompleted": "Отметить как выполнено",
+    "giveCard": "Выдать карту",
+    "revokeCard": "Отозвать карту",
+    "confirmCard": "Выдать карту постоянного клиента этому пользователю?",
+    "confirmRevoke": "Отозвать карту постоянного клиента у этого пользователя?",
+    "cardActive": "Карта активна",
+    "cardInactive": "Карта не активна",
+    "new": "новый",
+    "preparing": "готовится",
+    "completed": "выполнено"
+  },
+  "footer": {
+    "tagline": "Свежий кофе, уют и забота каждый день",
+    "addressTitle": "Адрес кофейни",
+    "addressLine1": "БЦ МОТО",
+    "addressLine2": "улица Токтогула, 87а",
+    "orderTitle": "Заказ по телефону",
+    "orderNote": "Если удобнее — позвоните нам",
+    "bottomNote": "Сделано с любовью к кофе."
+  },
+  "common": {
+    "cancel": "Отмена",
+    "login": "Войти",
+    "loading": "Загрузка",
+    "currency": "сом"
+  }
+}

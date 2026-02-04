@@ -1,0 +1,91 @@
+{
+  "sections": [
+      {
+        "id": "coffee",
+        "title_key": "menu.coffee",
+        "items": [
+          {"id":"latte","name_ru":"Латте","name_en":"Latte","sizes":[{"size":"250 мл","price":160},{"size":"360 мл","price":190},{"size":"480 мл","price":230}]},
+          {"id":"cappuccino","name_ru":"Капуччино","name_en":"Cappuccino","sizes":[{"size":"250 мл","price":170},{"size":"360 мл","price":200},{"size":"480 мл","price":240}]},
+          {"id":"americano","name_ru":"Американо","name_en":"Americano","sizes":[{"size":"250 мл","price":140},{"size":"360 мл","price":160},{"size":"480 мл","price":200}]},
+          {"id":"raf","name_ru":"Рафф","name_en":"Raf","sizes":[{"size":"250 мл","price":230},{"size":"360 мл","price":270},{"size":"480 мл","price":300}]},
+          {"id":"mocaccino","name_ru":"Мокаччино","name_en":"Mocaccino","sizes":[{"size":"250 мл","price":190},{"size":"360 мл","price":230},{"size":"480 мл","price":280}]},
+          {"id":"flat_white","name_ru":"Флет Уайт","name_en":"Flat White","sizes":[{"size":"250 мл","price":200}]},
+          {"id":"espresso_30","name_ru":"Эспрессо 30 мл","name_en":"Espresso 30 ml","sizes":[{"size":"30 мл","price":120}]},
+          {"id":"espresso_60","name_ru":"Эспрессо 60 мл","name_en":"Espresso 60 ml","sizes":[{"size":"60 мл","price":140}]},
+          {"id":"cacao","name_ru":"Какао","name_en":"Cacao","sizes":[{"size":"360 мл","price":210}]}
+        ]
+      },
+      {
+        "id": "ice",
+        "title_key": "menu.iced",
+        "items": [
+          {"id":"ice_latte","name_ru":"Ice Latte","name_en":"Ice Latte","sizes":[{"size":"500 мл","price":240}]},
+          {"id":"ice_cappuccino","name_ru":"Ice Cappuccino","name_en":"Ice Cappuccino","sizes":[{"size":"500 мл","price":250}]},
+          {"id":"ice_americano","name_ru":"Ice Americano","name_en":"Ice Americano","sizes":[{"size":"500 мл","price":230}]},
+          {"id":"ice_matcha_green","name_ru":"Ice Matcha (зелёная)","name_en":"Ice Matcha Green","sizes":[{"size":"500 мл","price":220}]},
+          {"id":"ice_matcha_blue","name_ru":"Ice Matcha (голубая)","name_en":"Ice Matcha Blue","sizes":[{"size":"500 мл","price":220}]}
+        ]
+      },
+      {
+        "id": "lemonades",
+        "title_key": "menu.lemonades",
+        "items": [
+          {"id":"garnet_rose","name_ru":"Garnet & Rose","name_en":"Garnet & Rose","sizes":[{"size":"500 мл","price":170}]},
+          {"id":"tropical","name_ru":"Tropical","name_en":"Tropical","sizes":[{"size":"500 мл","price":190}]},
+          {"id":"watermelon_strawberry","name_ru":"Watermelon & Strawberry","name_en":"Watermelon & Strawberry","sizes":[{"size":"500 мл","price":170}]}
+        ]
+      },
+      {
+        "id": "milkshakes",
+        "title_key": "menu.milkshakes",
+        "items": [
+          {"id":"banana_shake","name_ru":"Банановый","name_en":"Banana Shake","sizes":[{"size":"500 мл","price":280}]},
+          {"id":"strawberry_shake","name_ru":"Клубничный","name_en":"Strawberry Shake","sizes":[{"size":"500 мл","price":290}]},
+          {"id":"vanilla_shake","name_ru":"Ваниль","name_en":"Vanilla Shake","sizes":[{"size":"500 мл","price":230}]}
+        ]
+      },
+      {
+        "id": "tea",
+        "title_key": "menu.tea",
+        "items": [
+          {"id":"green_black","name_ru":"Зелёный / Чёрный","name_en":"Green / Black","sizes":[{"size":"360 мл","price":70}]},
+          {"id":"sea_buckthorn","name_ru":"Облепиховый","name_en":"Sea Buckthorn","sizes":[{"size":"360 мл","price":190}]},
+          {"id":"rasp_rosehip","name_ru":"Малина + шиповник","name_en":"Raspberry + Rosehip","sizes":[{"size":"360 мл","price":190}]},
+          {"id":"matcha_green","name_ru":"Зелёная матча","name_en":"Matcha Green","sizes":[{"size":"360 мл","price":220}]},
+          {"id":"matcha_blue","name_ru":"Голубая матча","name_en":"Matcha Blue","sizes":[{"size":"360 мл","price":220}]},
+          {"id":"ginger","name_ru":"Имбирный","name_en":"Ginger","sizes":[{"size":"360 мл","price":190}]},
+          {"id":"mango_passion","name_ru":"Манго + маракуйя","name_en":"Mango + Passion","sizes":[{"size":"360 мл","price":190}]},
+          {"id":"mint","name_ru":"Мятный","name_en":"Mint","sizes":[{"size":"360 мл","price":190}]},
+          {"id":"karak","name_ru":"Карак чай (шафран / фисташка)","name_en":"Karak (saffron/pistachio)","sizes":[{"size":"360 мл","price":220}]},
+          {"id":"strawberry_mojito","name_ru":"Клубника мохито","name_en":"Strawberry Mojito","sizes":[{"size":"360 мл","price":190}]}
+        ]
+      },
+      {
+        "id": "syrups",
+        "title_key": "menu.syrups",
+        "items": [
+          {"id":"salted_caramel","name_ru":"Солёная карамель","name_en":"Salted Caramel","sizes":[{"size":"shot","price":25}]},
+          {"id":"caramel","name_ru":"Карамель","name_en":"Caramel","sizes":[{"size":"shot","price":25}]},
+          {"id":"vanilla","name_ru":"Ваниль","name_en":"Vanilla","sizes":[{"size":"shot","price":25}]},
+          {"id":"chocolate","name_ru":"Шоколад","name_en":"Chocolate","sizes":[{"size":"shot","price":25}]},
+          {"id":"ginger_cookie","name_ru":"Имбирный пряник","name_en":"Ginger Cookie","sizes":[{"size":"shot","price":25}]},
+          {"id":"popcorn","name_ru":"Попкорн","name_en":"Popcorn","sizes":[{"size":"shot","price":25}]},
+          {"id":"apple_pie","name_ru":"Яблочный пирог","name_en":"Apple Pie","sizes":[{"size":"shot","price":25}]},
+          {"id":"lavender","name_ru":"Прованская лаванда","name_en":"Provence Lavender","sizes":[{"size":"shot","price":25}]},
+          {"id":"green_mint","name_ru":"Зелёная мята","name_en":"Green Mint","sizes":[{"size":"shot","price":25}]},
+          {"id":"black_currant","name_ru":"Чёрная смородина","name_en":"Black Currant","sizes":[{"size":"shot","price":25}]}
+        ]
+      },
+      {
+        "id": "altMilk",
+        "title_key": "menu.altMilk",
+        "items": [
+          {"id":"soy","name_ru":"Соевое","name_en":"Soy Milk","sizes":[{"size":"add","price":70}]},
+          {"id":"coconut","name_ru":"Кокосовое","name_en":"Coconut Milk","sizes":[{"size":"add","price":70}]},
+          {"id":"almond","name_ru":"Миндальное","name_en":"Almond Milk","sizes":[{"size":"add","price":70}]},
+          {"id":"hazelnut","name_ru":"Фундуковое","name_en":"Hazelnut Milk","sizes":[{"size":"add","price":70}]},
+          {"id":"oat","name_ru":"Овсяное","name_en":"Oat Milk","sizes":[{"size":"add","price":70}]}
+        ]
+      }
+    ]
+  }

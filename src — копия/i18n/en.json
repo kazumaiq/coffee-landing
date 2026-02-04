@@ -1,0 +1,117 @@
+{
+  "header": {
+    "logoAlt": "Coffee",
+    "account": "Profile",
+    "login": "Login",
+    "logout": "Logout"
+  },
+  "language": {
+    "ru": "RU",
+    "en": "EN"
+  },
+  "hero": {
+    "title": "Coffee Land",
+    "subtitle": "Fresh coffee every day",
+    "viewMenu": "View Menu",
+    "orderNow": "Order for Pickup"
+  },
+  "menu": {
+    "coffee": "Coffee",
+    "iced": "Iced Drinks",
+    "lemonades": "Lemonades",
+    "milkshakes": "Milkshakes",
+    "syrups": "Syrups",
+    "altMilk": "Alternative Milk",
+    "tea": "Tea",
+    "add": "Add",
+    "selectSize": "Select size",
+    "discount": "10% Discount"
+  },
+  "cart": {
+    "orderPickup": "Order for pickup",
+    "total": "Total",
+    "withDiscount": "With Discount",
+    "enterPhone": "Enter phone",
+    "name": "Name",
+    "phone": "Phone",
+    "country": "Country",
+    "placeOrder": "Place order",
+    "orderConfirmed": "Order Placed!",
+    "pickupTime": "Pickup Time",
+    "pickupTimePlaceholder": "e.g. 14:30",
+    "comment": "Order comment",
+    "commentPlaceholder": "e.g. no sugar, less ice"
+  },
+  "order": {
+    "placeOrder": "Place Order",
+    "confirm": "Confirm Order",
+    "total": "Total",
+    "finalTotal": "Final Total",
+    "success": "Order placed successfully",
+    "history": "Order History",
+    "noOrders": "No orders yet",
+    "status": {
+      "new": "New",
+      "pending": "Pending",
+      "confirmed": "Confirmed",
+      "preparing": "Preparing",
+      "completed": "Completed"
+    }
+  },
+  "auth": {
+    "register": "Register",
+    "login": "Login",
+    "enterName": "Enter name",
+    "enterPhone": "Enter phone",
+    "haveAccount": "Already have account?",
+    "noAccount": "Don't have account?"
+  },
+  "profile": {
+    "title": "My Profile",
+    "name": "Name",
+    "phone": "Phone",
+    "loyaltyCard": "Loyalty Card",
+    "cardActive": "Card Active",
+    "cardInactive": "Card Inactive",
+    "discount": "10% Discount",
+    "orders": "Order History",
+    "noOrders": "No orders yet",
+    "logout": "Logout"
+  },
+  "admin": {
+    "title": "Admin Panel",
+    "users": "Users",
+    "orders": "Orders",
+    "stats": "Statistics",
+    "totalOrders": "Total Orders",
+    "ordersToday": "Orders Today",
+    "totalRevenue": "Total Revenue",
+    "revenueToday": "Revenue Today",
+    "status": "Status",
+    "markCompleted": "Mark completed",
+    "giveCard": "Give Card",
+    "revokeCard": "Revoke Card",
+    "confirmCard": "Give loyalty card to this user?",
+    "confirmRevoke": "Revoke loyalty card from this user?",
+    "cardActive": "Card Active",
+    "cardInactive": "Card Inactive",
+    "new": "new",
+    "preparing": "preparing",
+    "completed": "completed"
+  },
+  "footer": {
+    "tagline": "Fresh coffee, comfort, and care every day",
+    "addressTitle": "Coffee Shop Address",
+    "addressLine1": "Business Center MOTO",
+    "addressLine2": "87a Toktogul Street",
+    "orderTitle": "Order by Phone",
+    "orderNote": "If it is more convenient, call us",
+    "bottomNote": "Made with love for coffee."
+  },
+  "common": {
+    "cancel": "Cancel",
+    "login": "Login",
+    "loading": "Loading",
+    "currency": "som"
+  }
+}
